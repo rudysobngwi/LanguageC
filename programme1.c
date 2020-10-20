@@ -1,0 +1,4 @@
+main () {
+  puts ("Bonjour");
+  getchar ();
+} 
